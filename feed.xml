@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Oliveroo Technologies</title>
+  <subtitle>Software Engineering, Design Patterns, Cloud and More</subtitle>
+  <link href="http://localhost:8000/feed.xml" rel="self"/>
+  <link href="http://localhost:8000"/>
+  <updated>2020-09-08T16:01:15.000+10:00</updated>
+  <id>http://localhost:8000/</id>
+  <author>
+    <name>Marcos</name>
+  </author>
+  <entry>
+    <title>Hello</title>
+    <link href="http://localhost:8000/hello/"/>
+    <updated>2020-09-08T16:01:15.000+10:00</updated>
+    <id>http://localhost:8000/hello/</id>
+    <content type="html">&lt;p&gt;Blog&lt;/p&gt;</content>
+  </entry>
+</feed>
